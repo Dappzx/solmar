@@ -1,5 +1,9 @@
 # SOLMAR — Open-World 2D Crime Game
 
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Dappzx/solmar/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/Dappzx/solmar/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+
 **SOLMAR** is a 2D open-world crime game set in the fictional coastal city of
 Solmar. You play **Jax Moreno**, a driver-for-hire who takes fares, steals
 cars, dodges the police, and climbs from street hustler to King of Solmar.
